@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sayantika Pal</h1>
-<h3 align="center">I'm Sayantika Pal ...i'm currently studying B-tech at University Of Engineering And Management ,Kolkata</h3>
+<h3 align="center">I'm currently studying B-tech at University Of Engineering And Management ,Kolkata</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foxy111103&label=Profile%20views&color=0e75b6&style=flat" alt="foxy111103" /> </p>
