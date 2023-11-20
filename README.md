@@ -14,11 +14,12 @@
 
 - 💻I have learned **Django Framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/foxy111103](https://github.com/foxy111103)
+- 👨‍💻All of my projects are available at
+  [https://github.com/foxy111103](https://github.com/foxy111103)
 
-- 💬 Ask me about **python,c,html,css**
+- 💬Ask me about **python,c,html,css**
 
-- 📫 How to reach me **sayantikapalxii14@gmail.com**
+- 📫How to reach me **sayantikapalxii14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
